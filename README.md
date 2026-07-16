@@ -8,6 +8,8 @@ Interactive map of transit and housing projects to be cut by California Air Reso
 ## Specifications
 Here is an [example map](https://experience.arcgis.com/experience/1c8d389306234114b4db2e13e2b1ddf1) that we'd like to emulate, in some form.
 
+Putting todo list and outline of required work in `TODO.md`
+
 ## Datasets
 
 - TODO (Non-technical, can be done by anyone): Find specific geometries for each project to make it easier for the coders.
